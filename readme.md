@@ -1,0 +1,1 @@
+This is an automatic bot to sending whatsapp messages through the url, so theres no need to add the contact on your contact list.
